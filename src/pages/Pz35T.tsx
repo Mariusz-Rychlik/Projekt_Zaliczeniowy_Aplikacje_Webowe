@@ -100,20 +100,6 @@ function Pz35t() {
                         </ul>
                     </div>
                 </div>
-                {/*
-
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                */}
             </div>
         </div>
     );
